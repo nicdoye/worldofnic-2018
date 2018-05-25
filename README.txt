@@ -1,31 +1,17 @@
-Dimension by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+World of Nic 2018
+My Personal Website
 
+All original images (which is all of them, except overlay.png) are available under 
+    the CC-BY 4.0 license.
+All original text is available under the CC-BY 4.0 license.
+All original code is available under the Apache 2.0 license.
 
-This is Dimension, a fun little one-pager with modal-ized (is that a word?) "pages"
-and a cool depth effect (click on a menu item to see what I mean). Simple, fully
-responsive, and kitted out with all the usual pre-styled elements you'd expect.
-Hope you dig it :)
+Font Awesome Pro icons are referenced, but not distributed from here, and are used
+    under license from Fonticons, Inc
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+Dimension by HTML5 UP (html5up.net | @ajlkni) is available under a CC-BY 3.0 license.
 
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fortawesome.github.com/Font-Awesome)
-
-	Other:
-		jQuery (jquery.com)
-		Misc. Sass functions (@HugoGiraudel)
-		Skel (skel.io)
+Dimension also ships with:
+    jQuery (jquery.com). MIT License https://github.com/jquery/jquery/blob/master/LICENSE.txt
+    Misc. Sass functions (@HugoGiraudel). Probably MIT https://github.com/HugoGiraudel
+    Skel (skel.io). MIT License https://github.com/ajlkn/skel/blob/master/LICENSE
